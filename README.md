@@ -1,7 +1,7 @@
 # digital-logic-links
 
 Half Adder
-https://simulator.io/board/HvCuKfv493/1
+https://simulator.io/board/HvCuKfv493/2
 
 
 Full Adder
